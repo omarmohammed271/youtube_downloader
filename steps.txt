@@ -1,0 +1,6 @@
+for every time in our project
+
+
+git add .
+git commit -m "title"
+git push
